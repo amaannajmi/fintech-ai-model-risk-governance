@@ -1,0 +1,18 @@
+[
+    {
+        "group": "Low Amount",
+        "total_transactions": 1668,
+        "fraud_rate_pct": 0.06,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1_score": 1.0
+    },
+    {
+        "group": "High Amount",
+        "total_transactions": 1667,
+        "fraud_rate_pct": 0.3,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1_score": 1.0
+    }
+]
