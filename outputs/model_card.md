@@ -3,7 +3,7 @@
 
 ## Model Details
 - **Version:** 1.0
-- **Date:** 2026-05-06
+- **Date:** 2026-05-12
 - **Developed by:** Amaan Najmi
 - **Model type:** Supervised Binary Classification (Random Forest)
 - **Language/Framework:** Python (Scikit-learn)
