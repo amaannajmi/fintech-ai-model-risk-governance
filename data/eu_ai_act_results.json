@@ -1,0 +1,25 @@
+{
+    "model_name": "Credit Card Fraud Detection Classifier",
+    "version": "1.0",
+    "date": "2026-05-12",
+    "risk_level": "HIGH",
+    "reasoning": "Model operates in financial services and affects individual outcomes. Under EU AI Act Annex III, AI systems used in creditworthiness assessment and fraud detection that affect individuals are classified as HIGH RISK.",
+    "obligations": [
+        "Establish a risk management system",
+        "Ensure data governance and training data quality",
+        "Produce technical documentation",
+        "Enable automatic logging of events (audit trail)",
+        "Provide transparency to affected individuals",
+        "Ensure human oversight of model decisions",
+        "Achieve appropriate accuracy, robustness and cybersecurity",
+        "Register the system in the EU AI Act database before deployment"
+    ],
+    "compliance_checks": {
+        "Technical documentation": true,
+        "Explainability (SHAP)": true,
+        "Bias and fairness testing": true,
+        "Human oversight": true,
+        "Post-deployment monitoring": true
+    },
+    "overall_status": "COMPLIANT"
+}
