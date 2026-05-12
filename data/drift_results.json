@@ -1,0 +1,44 @@
+[
+    {
+        "feature": "V14",
+        "ks_statistic": 0.0164,
+        "p_value": 0.8899,
+        "drift_detected": false
+    },
+    {
+        "feature": "V1",
+        "ks_statistic": 0.022,
+        "p_value": 0.5807,
+        "drift_detected": false
+    },
+    {
+        "feature": "V4",
+        "ks_statistic": 0.0288,
+        "p_value": 0.251,
+        "drift_detected": false
+    },
+    {
+        "feature": "V17",
+        "ks_statistic": 0.0192,
+        "p_value": 0.7462,
+        "drift_detected": false
+    },
+    {
+        "feature": "V10",
+        "ks_statistic": 0.0232,
+        "p_value": 0.5117,
+        "drift_detected": false
+    },
+    {
+        "feature": "V12",
+        "ks_statistic": 0.0176,
+        "p_value": 0.8336,
+        "drift_detected": false
+    },
+    {
+        "feature": "Amount",
+        "ks_statistic": 0.0236,
+        "p_value": 0.4894,
+        "drift_detected": false
+    }
+]
